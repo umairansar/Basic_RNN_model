@@ -30,4 +30,5 @@ learning_rate = 0.001
 epochs = 2000
 batch_size = 1
 
+### Note
 Here the dataset was the sine wave itself. Unlike CNN, this doesnt use a conventional type of dataset. The accuracy is determined visually by checking how much trace is generated to overlap successfully on the original wave. Please check out the code to view these concepts fully.
