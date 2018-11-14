@@ -1,7 +1,7 @@
 # Basic_RNN_model
 This model uses a mathematically created sign wave and tries to trace and learn the wave using RNN.
 
-### Mathedology
+### Mathpdology
 The model was built using the Google's Tensorflow framework. The implementation can be broken down as follows:
       
       1- Create a sine wave function
