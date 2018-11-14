@@ -24,10 +24,15 @@ The model was built using the Google's Tensorflow framework. The implementation 
 ### Parameter used
 
 num_inputs = 1
+
 num_neurons = 100
+
 num_outputs = 1
+
 learning_rate = 0.001
+
 epochs = 2000
+
 batch_size = 1
 
 ### Note
